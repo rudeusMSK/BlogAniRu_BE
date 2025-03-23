@@ -95,6 +95,21 @@ Trang blog AniRu chuyên đăng các bài viết về anime, cho phép người 
 - **Wireframe:**
 
 ---
+
+![image](https://github.com/user-attachments/assets/36300696-ba7f-44bc-adeb-bada12c5b995)
+
+![image](https://github.com/user-attachments/assets/c92a1c5a-d698-41ff-ae05-0450d5786586)
+
+![image](https://github.com/user-attachments/assets/8f7dcd50-a812-4984-9f57-cc40c7704e6b)
+
+![image](https://github.com/user-attachments/assets/b4a4f7f3-fbc6-45cc-b2a4-03ee962fd0bb)
+
+![image](https://github.com/user-attachments/assets/15e4ab35-7c01-4221-aec9-24e0971cd944)
+
+![image](https://github.com/user-attachments/assets/bc07291c-dc2e-4056-ad7c-a7d369266085)
+
+![image](https://github.com/user-attachments/assets/2414d1d9-75aa-49d1-9f38-dd8438646ef8)
+
 ---
 
 - **Prototype:**
